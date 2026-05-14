@@ -8,7 +8,7 @@ The initial goal of this mod was to regroup all the various patches I made for B
 I'm working on it from time to time and there's still a lot to do.
 
 ## Requirements
-PCSX2 with the "Extended RAM" option enaled.  
+PCSX2 with the "Extended RAM" option enabled.  
 Read [this](https://github.com/Nahelam/PS2-Game-Mods#pcsx2) if you don't know what to do with pnach files.
 
 ## Mod Menu
@@ -21,3 +21,5 @@ You can also switch to other cars using Left And Right (D-Pad) and activate the 
 If you use the Takedown camera or aftertouch, the slow motion will still happen during replay. Same goes for signatures (game pausing).  
 If you don't want the cameras to move during a Takedown or a crash check the replay menu.  
 You can now unleash the cinematic potential of the game.
+
+[![Burnout 3: Takedown - Retail Replay Mod Showcase](https://github.com/user-attachments/assets/581b998d-54eb-4a32-b8d2-cf1422633007)](https://youtu.be/Aw3aIkPtp88 "Burnout 3: Takedown - Retail Replay Mod Showcase")
