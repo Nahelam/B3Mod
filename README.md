@@ -23,6 +23,7 @@ Recently I've been focusing on making the replay system work in all offline game
 - If you use the Takedown camera or aftertouch, the slow motion will still happen during replay.  
 - The same goes for signature Takedowns, the game will still pause during replay.  
 - If you don't want the camera to move during a Takedown or a crash check the replay menu.
+- The replay input buffer capacity is currently set to 200KB, you can track its usage through the debug log.
  
 You can now unleash the cinematic potential of the game.
 
