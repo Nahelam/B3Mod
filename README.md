@@ -8,6 +8,7 @@ The initial goal of this mod was to regroup all the various patches I made for B
 I'm working on it from time to time and there's still a lot to do.
 
 ## Requirements
+**SLES-52585** or **SLUS-21050** version of the game.  
 PCSX2 with the "Extended RAM" option enabled.  
 Read [this](https://github.com/Nahelam/PS2-Game-Mods#pcsx2) if you don't know what to do with pnach files.
 
