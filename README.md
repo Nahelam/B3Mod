@@ -16,10 +16,13 @@ Press SELECT to open the mod menu.
 
 ## Replays
 Recently I've been focusing on making the replay system work in all offline game modes and it went kinda well.  
-While on the replay screen you can toggle between different camera modes using Up and Down (D-Pad).  
-You can also switch to other cars using Left And Right (D-Pad) and activate the free camera with START.  
-If you use the Takedown camera or aftertouch, the slow motion will still happen during replay. Same goes for signatures (game pausing).  
-If you don't want the cameras to move during a Takedown or a crash check the replay menu.  
+- While on the replay screen you can toggle between different camera modes using Up and Down (D-Pad).  
+- You can toggle between 5 camera modes for the player and 3 camera modes for AI.  
+- You can also switch to other cars using Left And Right (D-Pad) and activate the free camera with START.  
+- If you use the Takedown camera or aftertouch, the slow motion will still happen during replay.  
+- The same goes for signature Takedowns, the game will still pause during replay.  
+- If you don't want the camera to move during a Takedown or a crash check the replay menu.
+ 
 You can now unleash the cinematic potential of the game.
 
 [![Burnout 3: Takedown - Retail Replay Mod Showcase](https://github.com/user-attachments/assets/581b998d-54eb-4a32-b8d2-cf1422633007)](https://youtu.be/Aw3aIkPtp88 "Burnout 3: Takedown - Retail Replay Mod Showcase")
